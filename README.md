@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Feroj Alam</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">I am passionate about JavaScript, React.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feroj7&label=Profile%20views&color=0e75b6&style=flat" alt="feroj7" /> </p>
 
-- 🌱 I’m currently focused on __JavaScript, React__
+- 🌱 I’m currently focused on __JavaScript, React.js__
 
 - 📫 Reachout to me **ferojalam790@gmail.com**
 
